@@ -1,0 +1,4407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400mm"
+   height="210mm"
+   viewBox="0 0 400 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="OrderState_v1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker19040"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19038" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect19032"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect18538"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect18016"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker17499"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17497" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect17495"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker16516"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16514" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16512"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker15986"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path15984" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15982"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker15466"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path15464" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15462"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker14970"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path14968" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14966"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker13998"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13996" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13988"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13986" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13978"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13976" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13974"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13956"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13938"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker13458"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13456" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13448"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13446" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13438"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13436" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13428"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13426" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9406"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9394"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker8922"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8920" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8918"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker8396"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8394" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8392"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker8000"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7998" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7996"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker7208"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7206" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7204"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker6802"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6800" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6798"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker6410"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6408" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6406"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker5690"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5688" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5686"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5266"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker4886"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4884" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4878"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker3702"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3700" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3692"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3690" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3674"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3666"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker3306"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3304" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3302"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2935"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2933" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2931"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2313"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2311" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2309"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1967"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1965" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1963"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1607"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1605" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1603"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7260"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker6332"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6330" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6328"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="371.9729"
+       y="43.547974"
+       width="17.24926"
+       height="6.5261646"
+       id="rect6266" />
+    <marker
+       style="overflow:visible"
+       id="marker5814"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5812" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5810"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker5486"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5484" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5482"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker4790"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4788" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4786"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker3454"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3452" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3444"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3442" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3434"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3426"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker3040"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3038" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3036"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2728"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2726" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2724"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1993"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1497"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1495" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1493"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="155.48123"
+       y="117.63126"
+       width="77.809977"
+       height="77.677467"
+       id="rect7132" />
+    <rect
+       x="155.48123"
+       y="117.63126"
+       width="79.735001"
+       height="79.735008"
+       id="rect7122" />
+    <rect
+       x="157.97667"
+       y="119.38427"
+       width="74.73214"
+       height="76.155531"
+       id="rect7116" />
+    <rect
+       x="13.055115"
+       y="129.46304"
+       width="70.331487"
+       height="32.682233"
+       id="rect6801" />
+    <marker
+       style="overflow:visible"
+       id="marker6197"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6195" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6187"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5933"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5885"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5234" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4787"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4785" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4521"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4519" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4517"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker4345"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4343" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4335"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4331"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2695"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2469"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2467" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2459"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2263"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2261" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2259"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2063"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2061" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2055"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1866"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1678"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1676" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1674"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1498"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1496" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1494"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1332"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1330" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1324"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1192"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1190" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1184"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3086"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2978"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2838"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2836" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2830"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2698"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2696" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2690"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2488"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2486" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2480"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2362"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2252"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2164"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2162" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2154"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2084"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2006"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2004" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1998"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1800"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1798" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1792"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1660"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1658" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1650"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker1600"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1598" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1590"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1028"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1158"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect918"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="149.37482"
+       y="65.376045"
+       width="3.783567"
+       height="100.91531"
+       id="rect2850" />
+    <rect
+       x="13.055115"
+       y="129.46304"
+       width="70.331487"
+       height="32.682233"
+       id="rect6931" />
+    <rect
+       x="13.055115"
+       y="129.46304"
+       width="70.331487"
+       height="32.682233"
+       id="rect7110" />
+    <rect
+       x="13.055115"
+       y="129.46304"
+       width="70.331487"
+       height="32.682233"
+       id="rect7112" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="789.30794"
+     inkscape:cy="952.11928"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="true"
+     showguides="false"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2039"
+       transform="translate(127.85996,24.149515)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle2030"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.24698"
+         y="-1.2594258"
+         id="text2034"><tspan
+           sodipodi:role="line"
+           id="tspan2032"
+           x="246.24698"
+           y="-1.2594258"
+           style="font-size:2.11667px;stroke-width:0.264583">12</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text2848"
+       style="font-size:5.29167px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2850)" />
+    <rect
+       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1552"
+       width="49.735001"
+       height="14.735002"
+       x="461.93106"
+       y="43.547974" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="507.27536"
+       y="47.583469"
+       id="text1556"><tspan
+         sodipodi:role="line"
+         id="tspan1554"
+         x="507.27536"
+         y="47.583469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار تایید اولیه سفارش</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1558"
+       width="19.735001"
+       height="5.7350011"
+       x="488.5849"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="505.97855"
+       y="54.685524"
+       id="text1562"><tspan
+         sodipodi:role="line"
+         id="tspan1560"
+         x="505.97855"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید سفارش</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1564"
+       width="19.735001"
+       height="5.7350011"
+       x="466.88892"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="482.108"
+       y="54.685524"
+       id="text1568"><tspan
+         sodipodi:role="line"
+         id="tspan1566"
+         x="482.108"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect1570"
+       width="49.735001"
+       height="14.735002"
+       x="277.18961"
+       y="43.547974" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="322.08206"
+       y="47.583469"
+       id="text1574"><tspan
+         sodipodi:role="line"
+         id="tspan1572"
+         x="322.08206"
+         y="47.583469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار ارسال برای بافت</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1576"
+       width="19.735001"
+       height="5.7350011"
+       x="303.37674"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="320.77039"
+       y="54.685524"
+       id="text1580"><tspan
+         sodipodi:role="line"
+         id="tspan1578"
+         x="320.77039"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید جهت بافت</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1582"
+       width="19.735001"
+       height="5.7350011"
+       x="281.68094"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="296.89999"
+       y="54.691036"
+       id="text1586"><tspan
+         sodipodi:role="line"
+         id="tspan1584"
+         x="296.89999"
+         y="54.691036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1600)"
+       d="m 462.00126,51.271641 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path1588"
+       inkscape:path-effect="#path-effect1590"
+       inkscape:original-d="m 462.00126,51.271641 c -4.37031,2.64e-4 -8.74088,2.64e-4 -13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="461.61084"
+       y="50.520985"
+       id="text1646"><tspan
+         sodipodi:role="line"
+         id="tspan1644"
+         x="461.61084"
+         y="50.520985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan><tspan
+         sodipodi:role="line"
+         x="461.61084"
+         y="52.447479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan2669">توضیحات جهت</tspan><tspan
+         sodipodi:role="line"
+         x="461.61084"
+         y="54.373978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan2671"> اولویت بندی</tspan><tspan
+         sodipodi:role="line"
+         x="461.61084"
+         y="56.300472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan2673">سفارش</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect1772"
+       width="49.735001"
+       height="14.735002"
+       x="213.68971"
+       y="43.547974" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="253.47185"
+       y="47.583469"
+       id="text1776"><tspan
+         sodipodi:role="line"
+         id="tspan1774"
+         x="253.47185"
+         y="47.583469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار بافت کامل</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1778"
+       width="19.735001"
+       height="5.7350011"
+       x="239.8768"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="257.66208"
+       y="54.685524"
+       id="text1782"><tspan
+         sodipodi:role="line"
+         id="tspan1780"
+         x="257.66208"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید بافت کامل</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1784"
+       width="19.735001"
+       height="5.7350011"
+       x="218.18103"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="233.40005"
+       y="54.691036"
+       id="text1788"><tspan
+         sodipodi:role="line"
+         id="tspan1786"
+         x="233.40005"
+         y="54.691036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1800)"
+       d="m 276.79281,51.271641 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path1790"
+       inkscape:path-effect="#path-effect1792"
+       inkscape:original-d="m 276.79281,51.271641 c -4.37031,2.64e-4 -8.74088,2.64e-4 -13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="276.10834"
+       y="50.634888"
+       id="text1796"><tspan
+         sodipodi:role="line"
+         id="tspan1794"
+         x="276.10834"
+         y="50.634888"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect1978"
+       width="49.735001"
+       height="14.735002"
+       x="86.689644"
+       y="43.547974" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="128.84982"
+       y="47.583469"
+       id="text1982"><tspan
+         sodipodi:role="line"
+         id="tspan1980"
+         x="128.84982"
+         y="47.583469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار ارسال به آهار</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1984"
+       width="19.735001"
+       height="5.7350011"
+       x="101.68964"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="119.77061"
+       y="54.693279"
+       id="text1988"><tspan
+         sodipodi:role="line"
+         id="tspan1986"
+         x="119.77061"
+         y="54.693279"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید ارسال به آهار</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2006)"
+       d="m 213.29277,51.271641 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path1996"
+       inkscape:path-effect="#path-effect1998"
+       inkscape:original-d="m 213.29277,51.271641 c -4.37031,2.64e-4 -8.74088,2.64e-4 -13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="207.65512"
+       y="50.285686"
+       id="text2002"><tspan
+         sodipodi:role="line"
+         id="tspan2000"
+         x="207.65512"
+         y="50.285686"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <rect
+       style="fill:#f5f7e9;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2232"
+       width="49.735001"
+       height="14.735002"
+       x="359.21042"
+       y="107.04796" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="404.38226"
+       y="111.08344"
+       id="text2236"><tspan
+         sodipodi:role="line"
+         id="tspan2234"
+         x="404.38226"
+         y="111.08344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید جهت ارسال به متعامل</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2238"
+       width="19.735001"
+       height="5.7350011"
+       x="385.39743"
+       y="114.59039" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="400.13745"
+       y="118.18552"
+       id="text2242"><tspan
+         sodipodi:role="line"
+         id="tspan2240"
+         x="400.13745"
+         y="118.18552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید ارسال</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2244"
+       width="19.735001"
+       height="5.7350011"
+       x="363.70172"
+       y="114.59039" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="378.92068"
+       y="118.19102"
+       id="text2248"><tspan
+         sodipodi:role="line"
+         id="tspan2246"
+         x="378.92068"
+         y="118.19102"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <rect
+       style="fill:#f5f7e9;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2342"
+       width="49.735001"
+       height="14.735002"
+       x="359.21042"
+       y="139.1949" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="404.3822"
+       y="143.23039"
+       id="text2346"><tspan
+         sodipodi:role="line"
+         id="tspan2344"
+         x="404.3822"
+         y="143.23039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در حال ارسال به متعامل</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2348"
+       width="19.735001"
+       height="5.7350011"
+       x="374.21024"
+       y="146.73735" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="390.36499"
+       y="150.33247"
+       id="text2352"><tspan
+         sodipodi:role="line"
+         id="tspan2350"
+         x="390.36499"
+         y="150.33247"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید تحویل</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="354.48666"
+       y="148.28601"
+       id="text2366"><tspan
+         sodipodi:role="line"
+         id="tspan2364"
+         x="354.48666"
+         y="148.28601"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <rect
+       style="fill:#f5f7e9;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2460"
+       width="49.735001"
+       height="14.735002"
+       x="277.18964"
+       y="70.00631" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="315.2157"
+       y="78.283318"
+       id="text2464"><tspan
+         sodipodi:role="line"
+         id="tspan2462"
+         x="315.2157"
+         y="78.283318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید سفارش</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2670"
+       width="49.735001"
+       height="14.735002"
+       x="150.18965"
+       y="43.547974" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="191.50667"
+       y="47.823765"
+       id="text2674"><tspan
+         sodipodi:role="line"
+         id="tspan2672"
+         x="191.50667"
+         y="47.823765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار تایید رفوگری</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2676"
+       width="19.735001"
+       height="5.7350011"
+       x="176.37675"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="192.75488"
+       y="54.685524"
+       id="text2680"><tspan
+         sodipodi:role="line"
+         id="tspan2678"
+         x="192.75488"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید رفوگری</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2682"
+       width="19.735001"
+       height="5.7350011"
+       x="154.68095"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="169.90001"
+       y="54.691036"
+       id="text2686"><tspan
+         sodipodi:role="line"
+         id="tspan2684"
+         x="169.90001"
+         y="54.691036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2698)"
+       d="m 149.79273,51.271641 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path2688"
+       inkscape:path-effect="#path-effect2690"
+       inkscape:original-d="m 149.79273,51.271641 c -4.37031,2.64e-4 -8.74088,2.64e-4 -13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="144.15509"
+       y="50.285686"
+       id="text2694"><tspan
+         sodipodi:role="line"
+         id="tspan2692"
+         x="144.15509"
+         y="50.285686"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2798"
+       width="49.735001"
+       height="14.735002"
+       x="86.689644"
+       y="70.00631" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="134.97519"
+       y="74.041801"
+       id="text2802"><tspan
+         sodipodi:role="line"
+         id="tspan2800"
+         x="134.97519"
+         y="74.041801"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار تایید درجه بند و رفوگر</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="473.79654"
+       y="74.080849"
+       id="text3076"><tspan
+         sodipodi:role="line"
+         id="tspan3074"
+         x="473.79654"
+         y="74.080849"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <rect
+       style="fill:#f5f7e9;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect1099"
+       width="49.735001"
+       height="14.735002"
+       x="340.68948"
+       y="70.00631" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="385.58212"
+       y="74.041801"
+       id="text1103"><tspan
+         sodipodi:role="line"
+         id="tspan1101"
+         x="385.58212"
+         y="74.041801"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">اطلاع عدم تایید به متعامل</tspan></text>
+    <g
+       id="g1168"
+       transform="translate(84.062652,26.458334)">
+      <rect
+         style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect1105"
+         width="19.735001"
+         height="5.7350011"
+         x="271.62698"
+         y="51.09042" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+         x="283.84543"
+         y="54.823326"
+         id="text1109"><tspan
+           sodipodi:role="line"
+           id="tspan1107"
+           x="283.84543"
+           y="54.823326"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1192)"
+       d="m 340.29285,77.729976 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path1182"
+       inkscape:path-effect="#path-effect1184"
+       inkscape:original-d="m 340.29285,77.729976 c -4.37031,2.64e-4 -8.74088,2.64e-4 -13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="334.65491"
+       y="76.744019"
+       id="text1188"><tspan
+         sodipodi:role="line"
+         id="tspan1186"
+         x="334.65491"
+         y="76.744019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect1464"
+       width="49.735001"
+       height="14.735002"
+       x="277.18961"
+       y="16.560472" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="321.02151"
+       y="20.595968"
+       id="text1468"><tspan
+         sodipodi:role="line"
+         id="tspan1466"
+         x="321.02151"
+         y="20.595968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی عدم تایید سفارش</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1470"
+       width="19.735001"
+       height="5.7350011"
+       x="303.37692"
+       y="24.102915" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="318.0303"
+       y="27.698019"
+       id="text1474"><tspan
+         sodipodi:role="line"
+         id="tspan1472"
+         x="318.0303"
+         y="27.698019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید لغو</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1476"
+       width="19.735001"
+       height="5.7350011"
+       x="281.68094"
+       y="24.102915" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="296.90005"
+       y="27.703531"
+       id="text1480"><tspan
+         sodipodi:role="line"
+         id="tspan1478"
+         x="296.90005"
+         y="27.703531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="307.1796"
+       y="39.196823"
+       id="text1490"><tspan
+         sodipodi:role="line"
+         id="tspan1488"
+         x="307.1796"
+         y="39.196823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan><tspan
+         sodipodi:role="line"
+         x="307.1796"
+         y="41.123318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan1850">با توضیحات</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1498)"
+       d="m 301.416,43.372669 c 0,-3.806811 0,-7.613404 0,-11.419777"
+       id="path1492"
+       inkscape:path-effect="#path-effect1494"
+       inkscape:original-d="m 301.416,43.372669 c -2.4e-4,-3.806811 -2.4e-4,-7.613404 0,-11.419777" />
+    <g
+       id="g5454"
+       transform="translate(25.824606)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="path1852"
+         cx="483.08331"
+         cy="40.817593"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="482.16071"
+         y="41.846294"
+         id="text1856"><tspan
+           sodipodi:role="line"
+           id="tspan1854"
+           x="482.16071"
+           y="41.846294"
+           style="font-size:2.82222px;stroke-width:0.264583">1</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13428)"
+       d="m 327.18113,24.413425 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path1864"
+       inkscape:original-d="m 327.18113,24.413425 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0"
+       inkscape:path-effect="#path-effect1866" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="333.06741"
+       y="23.827351"
+       id="text1870"><tspan
+         sodipodi:role="line"
+         id="tspan1868"
+         x="333.06741"
+         y="23.827351"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2063)"
+       d="m 263.68109,45.979973 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path2053"
+       inkscape:path-effect="#path-effect2055"
+       inkscape:original-d="m 263.68109,45.979973 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="269.41925"
+       y="45.26334"
+       id="text2059"><tspan
+         sodipodi:role="line"
+         id="tspan2057"
+         x="269.41925"
+         y="45.26334"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle2227"
+       cx="325.39191"
+       cy="40.817585"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="324.46933"
+       y="41.846291"
+       id="text2231"><tspan
+         sodipodi:role="line"
+         id="tspan2229"
+         x="324.46933"
+         y="41.846291"
+         style="font-size:2.82222px;stroke-width:0.264583">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="180.17961"
+       y="39.196823"
+       id="text2255"><tspan
+         sodipodi:role="line"
+         id="tspan2251"
+         x="180.17961"
+         y="39.196823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan><tspan
+         sodipodi:role="line"
+         x="180.17961"
+         y="41.123318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan2253">با توضیحات</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2263)"
+       d="m 174.41592,43.372669 c 0,-3.806811 0,-7.613404 0,-11.419777"
+       id="path2257"
+       inkscape:path-effect="#path-effect2259"
+       inkscape:original-d="m 174.41592,43.372669 c -2.4e-4,-3.806811 -2.4e-4,-7.613404 0,-11.419777" />
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle2439"
+       cx="174.43781"
+       cy="29.421602"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="173.51517"
+       y="30.450308"
+       id="text2443"><tspan
+         sodipodi:role="line"
+         id="tspan2441"
+         x="173.51517"
+         y="30.450308"
+         style="font-size:2.82222px;stroke-width:0.264583">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="84.180862"
+       y="46.409924"
+       id="text2659"><tspan
+         sodipodi:role="line"
+         id="tspan2657"
+         x="84.180862"
+         y="46.409924"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <g
+       id="g2681"
+       transform="translate(77.787503,15.875)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle2675"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.68192"
+         y="-1.0162024"
+         id="text2679"><tspan
+           sodipodi:role="line"
+           id="tspan2677"
+           x="246.68192"
+           y="-1.0162024"
+           style="font-size:2.82222px;stroke-width:0.264583">3</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="358.82501"
+       y="114.01891"
+       id="text2691"><tspan
+         sodipodi:role="line"
+         id="tspan2689"
+         x="358.82501"
+         y="114.01891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan><tspan
+         sodipodi:role="line"
+         x="358.82501"
+         y="115.9454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan6054">قسمت مالی</tspan><tspan
+         sodipodi:role="line"
+         x="358.82501"
+         y="117.87189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan6441" /></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle3031"
+       cx="260.69202"
+       cy="40.5341"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="259.76938"
+       y="41.562809"
+       id="text3035"><tspan
+         sodipodi:role="line"
+         id="tspan3033"
+         x="259.76938"
+         y="41.562809"
+         style="font-size:2.82222px;stroke-width:0.264583">4</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle3041"
+       cx="197.19197"
+       cy="40.5341"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="196.26933"
+       y="41.562809"
+       id="text3045"><tspan
+         sodipodi:role="line"
+         id="tspan3043"
+         x="196.26933"
+         y="41.562809"
+         style="font-size:2.82222px;stroke-width:0.264583">5</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect4303"
+       width="49.735001"
+       height="14.735002"
+       x="28.481314"
+       y="55.189632" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="76.439598"
+       y="59.225128"
+       id="text4307"><tspan
+         sodipodi:role="line"
+         id="tspan4305"
+         x="76.439598"
+         y="59.225128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار دریافت از آهار به انبار</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect4309"
+       width="19.735001"
+       height="5.7350011"
+       x="43.481316"
+       y="62.732079" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="61.866146"
+       y="66.327179"
+       id="text4313"><tspan
+         sodipodi:role="line"
+         id="tspan4311"
+         x="61.866146"
+         y="66.327179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید دریافت از آهار</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4345)"
+       d="m 86.564235,47.427864 c 0,0 -33.755009,-0.07137 -33.755009,-0.07137 0,0 0.143441,7.250854 0.143441,7.250854"
+       id="path4333"
+       inkscape:path-effect="#path-effect4335"
+       inkscape:original-d="m 86.564235,47.427864 -33.755009,-0.07137 0.143441,7.250854"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers;marker-end:url(#marker4787)"
+       d="m 51.336905,70.117387 c 0,0 0,9.745964 0,9.745964 0,0 34.931386,0 34.931386,0"
+       id="path5883"
+       inkscape:path-effect="#path-effect5885"
+       inkscape:original-d="m 51.336905,70.117387 v 9.745964 h 34.931386"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="55.605865"
+       y="72.868256"
+       id="text5907"><tspan
+         sodipodi:role="line"
+         id="tspan5905"
+         x="55.605865"
+         y="72.868256"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect5909"
+       width="19.735001"
+       height="5.7350011"
+       x="112.87666"
+       y="77.548752" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="127.61674"
+       y="81.143852"
+       id="text5913"><tspan
+         sodipodi:role="line"
+         id="tspan5911"
+         x="127.61674"
+         y="81.143852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید رفوگر</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect5915"
+       width="19.735001"
+       height="5.7350011"
+       x="91.180939"
+       y="77.548752" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="106.39993"
+       y="81.149361"
+       id="text5919"><tspan
+         sodipodi:role="line"
+         id="tspan5917"
+         x="106.39993"
+         y="81.149361"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="100.80458"
+       y="88.938484"
+       id="text5929"><tspan
+         sodipodi:role="line"
+         id="tspan5927"
+         x="100.80458"
+         y="88.938484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="291.30463"
+       y="36.02182"
+       id="text6183"><tspan
+         sodipodi:role="line"
+         id="tspan6181"
+         x="291.30463"
+         y="36.02182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6197)"
+       d="m 285.54099,31.423726 c 0,3.649772 0,7.299332 0,10.948678"
+       id="path6185"
+       inkscape:path-effect="#path-effect6187"
+       inkscape:original-d="m 285.54099,31.423726 c 2.4e-4,3.649772 2.4e-4,7.299332 0,10.948678" />
+    <rect
+       style="fill:#f0f0f0;stroke:#000000;stroke-width:0.264998;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect6443"
+       width="79.735001"
+       height="79.735001"
+       x="1.0495371"
+       y="218.41019" />
+    <g
+       id="g6756"
+       transform="translate(-22.140027,100.77892)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+         x="70.549545"
+         y="127.0036"
+         id="text6725"><tspan
+           sodipodi:role="line"
+           id="tspan6723"
+           x="71.424599"
+           y="127.0036"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تغییر وضعیت سفارش به  </tspan></text>
+      <g
+         id="g6730"
+         transform="translate(-10.054166,-1.2233409)">
+        <circle
+           style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+           id="circle6717"
+           cx="83.950279"
+           cy="127.31744"
+           r="1.8675005" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="83.027634"
+           y="128.34616"
+           id="text6721"><tspan
+             sodipodi:role="line"
+             id="tspan6719"
+             x="83.027634"
+             y="128.34616"
+             style="font-size:2.82222px;stroke-width:0.264583">2</tspan></text>
+      </g>
+      <g
+         id="g6738"
+         transform="translate(-52.916669,-1.2233409)">
+        <circle
+           style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+           id="circle6732"
+           cx="83.950279"
+           cy="127.31744"
+           r="1.8675005" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="83.027634"
+           y="128.34616"
+           id="text6736"><tspan
+             sodipodi:role="line"
+             id="tspan6734"
+             x="83.027634"
+             y="128.34616"
+             style="font-size:2.82222px;stroke-width:0.264583">3</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+         x="97.827217"
+         y="127.0036"
+         id="text6742"><tspan
+           sodipodi:role="line"
+           id="tspan6740"
+           x="97.827217"
+           y="127.0036"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">اگر در وضعیت</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="11.323647"
+       y="222.49086"
+       id="text6447"><tspan
+         sodipodi:role="line"
+         id="tspan6445"
+         x="11.323647"
+         y="222.49086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:rtl;text-anchor:end;stroke-width:0.264583">لغو سفارش توسط مشتری در هر مرحله</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle6449"
+       cx="133.69189"
+       cy="40.5341"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="132.76926"
+       y="41.562809"
+       id="text6453"><tspan
+         sodipodi:role="line"
+         id="tspan6451"
+         x="132.76926"
+         y="41.562809"
+         style="font-size:2.82222px;stroke-width:0.264583">6</tspan></text>
+    <g
+       id="g6461"
+       transform="translate(-171.9792,54.50417)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle6455"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.68192"
+         y="-1.0162024"
+         id="text6459"><tspan
+           sodipodi:role="line"
+           id="tspan6457"
+           x="246.68192"
+           y="-1.0162024"
+           style="font-size:2.82222px;stroke-width:0.264583">7</tspan></text>
+    </g>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle6463"
+       cx="133.69191"
+       cy="66.992439"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="132.7693"
+       y="68.021149"
+       id="text6467"><tspan
+         sodipodi:role="line"
+         id="tspan6465"
+         x="132.7693"
+         y="68.021149"
+         style="font-size:2.82222px;stroke-width:0.264583">8</tspan></text>
+    <g
+       id="g1414"
+       transform="translate(209.02092,37.041668)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle6469"
+         cx="197.19196"
+         cy="66.992439"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="196.26935"
+         y="68.021149"
+         id="text6473"><tspan
+           sodipodi:role="line"
+           id="tspan6471"
+           x="196.26935"
+           y="68.021149"
+           style="font-size:2.82222px;stroke-width:0.264583">9</tspan></text>
+    </g>
+    <g
+       id="g1406"
+       transform="translate(145.52085,69.188542)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle6475"
+         cx="260.69202"
+         cy="66.992439"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="259.29883"
+         y="67.762939"
+         id="text6479"><tspan
+           sodipodi:role="line"
+           id="tspan6477"
+           x="259.29883"
+           y="67.762939"
+           style="font-size:2.11667px;stroke-width:0.264583">10</tspan></text>
+    </g>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle6481"
+       cx="324.19189"
+       cy="66.992439"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="322.79871"
+       y="67.762939"
+       id="text6485"><tspan
+         sodipodi:role="line"
+         id="tspan6483"
+         x="322.79871"
+         y="67.762939"
+         style="font-size:2.11667px;stroke-width:0.264583">11</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle6595"
+       cx="388.1991"
+       cy="66.745209"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="386.84155"
+       y="67.530693"
+       id="text6599"><tspan
+         sodipodi:role="line"
+         id="tspan6597"
+         x="386.84155"
+         y="67.530693"
+         style="font-size:2.11667px;stroke-width:0.264583">12</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6799"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6801)"
+       x="68.972572"
+       y="0"
+       transform="translate(-6.2650267,100.77892)"><tspan
+         x="83.386717"
+         y="132.67271"
+         id="tspan29333"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29325">اگر در وضعیت      سفارش به دو قسمت تبدیل </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29327">می شود</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29329">.</tspan><tspan
+           dx="62.295975"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29331">
+</tspan></tspan><tspan
+         x="83.386718"
+         y="137.20544"
+         id="tspan29343"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29335"> قسمت یک</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29337">: </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29339">ایجاد یک سفارش جدید به تعداد </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29341">فرش های بافت </tspan></tspan><tspan
+         x="83.386719"
+         y="141.73817"
+         id="tspan29353"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29345">شده که پرچم بدون متعامل </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29347">دارد و از مرحله    ادامه می یابد</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29349">.</tspan><tspan
+           dx="66.672981"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29351">
+</tspan></tspan><tspan
+         x="83.386718"
+         y="146.2709"
+         id="tspan29363"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29355">قسمت دوم</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29357">: </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29359">تغییر وضعیت سفارش اولیه به</tspan><tspan
+           dx="45.172119"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29361"> </tspan></tspan></text>
+    <g
+       id="g6768"
+       transform="translate(-31.665026,104.84725)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle6762"
+         cx="83.950279"
+         cy="127.31744"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="83.027634"
+         y="128.34616"
+         id="text6766"><tspan
+           sodipodi:role="line"
+           id="tspan6764"
+           x="83.027634"
+           y="128.34616"
+           style="font-size:2.82222px;stroke-width:0.264583">4</tspan></text>
+    </g>
+    <g
+       id="g6811"
+       transform="translate(-31.929616,124.75715)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle6805"
+         cx="83.950279"
+         cy="127.31744"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="83.027634"
+         y="128.34616"
+         id="text6809"><tspan
+           sodipodi:role="line"
+           id="tspan6807"
+           x="83.027634"
+           y="128.34616"
+           style="font-size:2.82222px;stroke-width:0.264583">4</tspan></text>
+    </g>
+    <g
+       id="g6936"
+       transform="translate(-6.2650267,100.77892)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle6921"
+         cx="17.275232"
+         cy="155.89236"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="15.882071"
+         y="156.66287"
+         id="text6925"><tspan
+           sodipodi:role="line"
+           id="tspan6923"
+           x="15.882071"
+           y="156.66287"
+           style="font-size:2.11667px;stroke-width:0.264583">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text6929"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6931)"
+       x="68.972572"
+       y="0"
+       transform="translate(-6.2650267,130.41226)"><tspan
+         x="83.38672"
+         y="132.67271"
+         id="tspan29369"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29365">در بقیه وضعیت ها فقط پرچم بدون متعامل به </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29367">سفارش اضافه </tspan></tspan><tspan
+         x="83.386719"
+         y="137.11459"
+         id="tspan29373"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29371">می شود و بقیه مراحل تا ت</tspan></tspan></text>
+    <rect
+       style="fill:#f0f0f0;stroke:#000000;stroke-width:0.264998;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect7046"
+       width="79.735001"
+       height="79.735001"
+       x="149.2162"
+       y="218.41019" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="165.75537"
+       y="121.71194"
+       id="text7076"><tspan
+         sodipodi:role="line"
+         id="tspan7074"
+         x="165.75537"
+         y="121.71194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:rtl;text-anchor:end;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       id="text7114"
+       style="font-family:'Font Awesome 5 Brands';font-size:1.41111111px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Font Awesome 5 Brands';white-space:pre;shape-inside:url(#rect7116)" />
+    <text
+       xml:space="preserve"
+       id="text7120"
+       style="font-family:'Font Awesome 5 Brands';font-size:1.41111111px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Font Awesome 5 Brands';white-space:pre;shape-inside:url(#rect7122)" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="233.34518"
+       y="121.90276"
+       id="text7128"><tspan
+         sodipodi:role="line"
+         id="tspan7126"
+         x="233.34518"
+         y="121.90276"
+         style="font-size:2.11667px;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       id="text7130"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect7132)"
+       transform="translate(-6.2650267,100.77892)"
+       x="77.104454"
+       y="0"><tspan
+         x="233.29102"
+         y="119.55675"
+         id="tspan29383"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29375">تمامی سفارشات به تعداد سفارشات شکسته می شود</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29377">. -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29379">اوکی</tspan><tspan
+           dx="38.883476"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29381">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="122.27639"
+         id="tspan29389"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29385">انبار داری</tspan><tspan
+           dx="4.4162745"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29387">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="124.99604"
+         id="tspan29399"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29391">اشتباه زدن تایید یا عدم تایید</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29393"> -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29395">اصلاح سفارش</tspan><tspan
+           dx="27.975599"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29397">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="127.71568"
+         id="tspan29409"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29401">ویرایش سفارش</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29403"> -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29405">اصلاح سفارش</tspan><tspan
+           dx="20.135237"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29407">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="130.43532"
+         id="tspan29419"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29411">فرش درجه یک و درجه دو</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29413"> -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29415">اوکی</tspan><tspan
+           dx="22.291182"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29417">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="133.15497"
+         id="tspan29429"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29421">بررسی فرش درجه دار</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29423"> -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29425">اوکی</tspan><tspan
+           dx="19.558527"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29427">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="135.87462"
+         id="tspan29439"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29431">سفارش از ابتدا متعامل نداشته باشد</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29433">. -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29435">اوکی</tspan><tspan
+           dx="27.70171"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29437">
+</tspan></tspan><tspan
+         x="233.29101"
+         y="138.59427"
+         id="tspan29451"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29441">موجودی در انبار دو وضعیت دارد</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29443">: </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29445">تخصیص داده شده به متعامل</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29447"> - </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29449">بدون متعامل که کل موجودی انبار مجموع دو </tspan></tspan><tspan
+         x="233.29102"
+         y="141.31392"
+         id="tspan29459"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29453">عدد بالا می باشد</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29455">.</tspan><tspan
+           dx="10.822095"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29457">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="144.03357"
+         id="tspan29473"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29461">دو نوع موجودی انبار داریم</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29463">: </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29465">برای فرش های درجه یک</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29467"> - </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29469">برای فرش های درجه دار</tspan><tspan
+           dx="55.072689"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29471">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="146.75322"
+         id="tspan29481"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29475">امکان تعیین کردن سفارش برای فرش های درجه دار</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29477">. </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29479">هنگام ثبت سفارش بتوان تعیین کرد که این متعامل فرش </tspan></tspan><tspan
+         x="233.29101"
+         y="149.47287"
+         id="tspan29489"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29483">درجه دار میخواهد</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29485">. </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29487">اگر یک کد فرش شامل هم فرش درجه یک بود هم درجه دار، باید دوتا سفارش مجزا یکی </tspan></tspan><tspan
+         x="233.29101"
+         y="152.19252"
+         id="tspan29497"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29491">برای درجه دار و یکی برای درجه یک ثبت شود</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29493">.</tspan><tspan
+           dx="32.483856"
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29495">
+</tspan></tspan><tspan
+         x="233.29102"
+         y="154.91217"
+         id="tspan29505"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29499">امکان ارسال آلارم یا مسیج برای تغییر وضعیت</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29501">. </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29503">مثلا وقتی فرش بافته شد به برای وضعیت سفارش که در حالت </tspan></tspan><tspan
+         x="233.29102"
+         y="157.63183"
+         id="tspan29513"><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29507">می باشد یک آلارم ارسال شود که از کد مورد نظر موجودی انبار تغییر کرده است</tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29509">. -&gt; </tspan><tspan
+           style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
+           id="tspan29511">اوکی نیاز به آلارم نداریم</tspan></tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264998;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path1473"
+       sodipodi:sides="4"
+       sodipodi:cx="141.16584"
+       sodipodi:cy="164.8246"
+       sodipodi:r1="5.900773"
+       sodipodi:r2="4.1724772"
+       sodipodi:arg1="1.4645608"
+       sodipodi:arg2="2.2499589"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 141.79153,170.69211 -6.4932,-5.24182 5.24181,-6.4932 6.4932,5.24182 z"
+       inkscape:transform-center-x="8.0309057e-06" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="145.22815"
+       y="165.46745"
+       id="text1477"><tspan
+         sodipodi:role="line"
+         id="tspan1475"
+         x="145.22815"
+         y="165.46745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">با متعامل</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker1497);paint-order:stroke fill markers"
+       d="m 61.200339,142.5425 c 0,0 0,43.04076 0,43.04076 0,0 70.662301,0 70.662301,0"
+       id="path1491"
+       inkscape:path-effect="#path-effect1493"
+       inkscape:original-d="m 61.200339,142.5425 v 43.04076 h 70.662301"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="139.5475"
+       y="146.0025"
+       id="text1761"><tspan
+         sodipodi:role="line"
+         id="tspan1759"
+         x="139.5475"
+         y="146.0025"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="155.70181"
+       y="163.59358"
+       id="text2249"><tspan
+         sodipodi:role="line"
+         id="tspan2247"
+         x="155.70181"
+         y="163.59358"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">سفارش با</tspan><tspan
+         sodipodi:role="line"
+         x="155.70181"
+         y="165.52008"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan2252">متعامل</tspan></text>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2276"
+       width="49.735001"
+       height="14.735002"
+       x="113.00233"
+       y="102.81463" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="157.12859"
+       y="106.85012"
+       id="text2280"><tspan
+         sodipodi:role="line"
+         id="tspan2278"
+         x="157.12859"
+         y="106.85012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار ارسال به انبار درجه یک</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2282"
+       width="19.735001"
+       height="5.7350011"
+       x="128.00229"
+       y="110.35707" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="142.74237"
+       y="113.95217"
+       id="text2286"><tspan
+         sodipodi:role="line"
+         id="tspan2284"
+         x="142.74237"
+         y="113.95217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید ارسال</tspan></text>
+    <g
+       id="g2294"
+       transform="translate(-87.458109,102.12917)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle2288"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.2258"
+         y="-1.274412"
+         id="text2292"><tspan
+           sodipodi:role="line"
+           id="tspan2290"
+           x="246.2258"
+           y="-1.274412"
+           style="font-size:2.11667px;stroke-width:0.264583">13</tspan></text>
+    </g>
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2296"
+       width="49.735001"
+       height="14.735002"
+       x="54.939651"
+       y="102.81463" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="99.258148"
+       y="106.85012"
+       id="text2300"><tspan
+         sodipodi:role="line"
+         id="tspan2298"
+         x="99.258148"
+         y="106.85012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار ارسال به انبار درجه دار</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2302"
+       width="19.735001"
+       height="5.7350011"
+       x="69.939651"
+       y="110.35707" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="84.679741"
+       y="113.95217"
+       id="text2306"><tspan
+         sodipodi:role="line"
+         id="tspan2304"
+         x="84.679741"
+         y="113.95217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید ارسال</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="130.58138"
+       y="87.110573"
+       id="text2720"><tspan
+         sodipodi:role="line"
+         id="tspan2718"
+         x="130.58138"
+         y="87.110573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"> تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2728)"
+       d="m 126.79089,84.869565 c 0,5.767936 0,11.535536 0,17.302795"
+       id="path2722"
+       inkscape:path-effect="#path-effect2724"
+       inkscape:original-d="m 126.79089,84.869565 c 3.9e-4,5.767936 3.9e-4,11.535536 0,17.302795" />
+    <rect
+       style="fill:#d3e0b8;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect2998"
+       width="49.735001"
+       height="14.735002"
+       x="113.14796"
+       y="129.27296" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="157.91638"
+       y="133.30846"
+       id="text3002"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="157.91638"
+         y="133.30846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار دریافت در انبار درجه یک</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect3004"
+       width="19.735001"
+       height="5.7350011"
+       x="128.14796"
+       y="136.8154" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="143.25909"
+       y="140.41051"
+       id="text3008"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="143.25909"
+         y="140.41051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید دریافت</tspan></text>
+    <g
+       id="g3016"
+       transform="translate(-87.312489,128.58752)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle3010"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.20047"
+         y="-1.2733785"
+         id="text3014"><tspan
+           sodipodi:role="line"
+           id="tspan3012"
+           x="246.20047"
+           y="-1.2733785"
+           style="font-size:2.11667px;stroke-width:0.264583">14</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="140.66028"
+       y="119.8131"
+       id="text3032"><tspan
+         sodipodi:role="line"
+         id="tspan3030"
+         x="140.66028"
+         y="119.8131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"> تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3040)"
+       d="m 137.37423,117.67791 c 0,3.64978 0,7.29934 0,10.94869"
+       id="path3034"
+       inkscape:path-effect="#path-effect3036"
+       inkscape:original-d="m 137.37423,117.67791 c 2.4e-4,3.64978 2.4e-4,7.29934 0,10.94869" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:rtl;stroke-width:0.264583"
+       x="120.7831"
+       y="135.71146"
+       id="text3338"><tspan
+         sodipodi:role="line"
+         id="tspan3336"
+         x="120.7831"
+         y="135.71146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:rtl;text-anchor:end;stroke-width:0.264583">بعد از تایید کل موجودی انبار آپدیت می شود(بدون تخصیص)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker3454);paint-order:stroke fill markers"
+       d="m 415.84934,58.332062 c 0,0 0,56.013678 0,56.013678 0,0 -6.24359,0 -6.24359,0"
+       id="path3424"
+       inkscape:path-effect="#path-effect3426"
+       inkscape:original-d="m 415.84934,58.332062 v 56.013678 h -6.24359"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect4698"
+       width="49.735001"
+       height="14.735002"
+       x="461.93106"
+       y="11.304928" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="504.94476"
+       y="19.58193"
+       id="text4702"><tspan
+         sodipodi:role="line"
+         id="tspan4700"
+         x="504.94476"
+         y="19.58193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">درخواست توسط متعامل</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4790)"
+       d="m 486.79863,26.13206 c 0,5.567231 0,11.134138 0,16.700719"
+       id="path4784"
+       inkscape:path-effect="#path-effect4786"
+       inkscape:original-d="m 486.79863,26.13206 c 3.6e-4,5.567231 3.6e-4,11.134138 0,16.700719" />
+    <g
+       id="g5449"
+       transform="translate(26.458334)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle4708"
+         cx="482.44958"
+         cy="8.2257614"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="481.55249"
+         y="9.253088"
+         id="text4712"><tspan
+           sodipodi:role="line"
+           id="tspan4710"
+           x="481.55249"
+           y="9.253088"
+           style="font-size:2.82222px;stroke-width:0.264583">0</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker5486);paint-order:stroke fill markers"
+       d="m 474.85908,58.36118 c 0,0 0,17.256312 0,17.256312 0,0 -84.04126,0 -84.04126,0"
+       id="path5480"
+       inkscape:path-effect="#path-effect5482"
+       inkscape:original-d="M 474.85908,58.36118 V 75.617492 H 390.81782"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5814)"
+       d="m 371.80849,52.859142 c -14.87489,0 -29.75066,0 -44.62736,0"
+       id="path5808"
+       inkscape:path-effect="#path-effect5810"
+       inkscape:original-d="m 371.80849,52.859142 c -14.87489,2.64e-4 -29.75066,2.64e-4 -44.62736,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="368.85587"
+       y="52.023182"
+       id="text6148"><tspan
+         sodipodi:role="line"
+         x="368.85587"
+         y="52.023182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan6152">بافت</tspan></text>
+    <rect
+       style="fill:#f5f7e9;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect6220"
+       width="49.735001"
+       height="14.735002"
+       x="371.9729"
+       y="43.547974" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="411.64877"
+       y="47.583469"
+       id="text6224"><tspan
+         sodipodi:role="line"
+         id="tspan6222"
+         x="411.64877"
+         y="47.583469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی تخصیص از انبارها</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect6226"
+       width="19.735001"
+       height="5.7350011"
+       x="398.62674"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="417.5824"
+       y="54.685524"
+       id="text6230"><tspan
+         sodipodi:role="line"
+         id="tspan6228"
+         x="417.5824"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تخصیص از انبار</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect6232"
+       width="19.735001"
+       height="5.7350011"
+       x="376.93076"
+       y="51.09042" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="389.71902"
+       y="54.685524"
+       id="text6236"><tspan
+         sodipodi:role="line"
+         id="tspan6234"
+         x="389.71902"
+         y="54.685524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بافت</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text6264"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6266)"
+       x="12.325186"
+       y="0"
+       transform="translate(-0.17416809,-6.2475243)"><tspan
+         x="389.22266"
+         y="44.832754"
+         id="tspan29519"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan29515">شکستن سفارش به اینکه چه </tspan><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan29517">تعداد ازا </tspan></tspan><tspan
+         x="389.22266"
+         y="46.609502"
+         id="tspan29525"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan29521">نبار  ارسال شود چه </tspan><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan29523">تعداد بافت شود</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6332)"
+       d="m 384.07792,121.91125 c 0,5.56723 0,11.13414 0,16.70073"
+       id="path6326"
+       inkscape:path-effect="#path-effect6328"
+       inkscape:original-d="m 384.07792,121.91125 c 3.6e-4,5.56723 3.6e-4,11.13414 0,16.70073" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="415.34119"
+       y="59.726536"
+       id="text7886"><tspan
+         sodipodi:role="line"
+         x="415.34119"
+         y="59.726536"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan19947">تخصیص فرش های درجه یک</tspan><tspan
+         sodipodi:role="line"
+         x="415.34119"
+         y="61.65303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan7888">یا در صورت درجه دار شدن فرش بعد از بافته شدن</tspan><tspan
+         sodipodi:role="line"
+         x="415.34119"
+         y="63.579529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan19953">مقداری از موجودی انبار که تعیین</tspan><tspan
+         sodipodi:role="line"
+         x="415.34119"
+         y="65.506027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan7890">گردد به این متعامل تخصیص داده می شود</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="383.59073"
+       y="123.41515"
+       id="text8038"><tspan
+         sodipodi:role="line"
+         id="tspan8036"
+         x="383.59073"
+         y="123.41515"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle1581"
+       cx="419.94904"
+       cy="40.286869"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="418.59149"
+       y="41.072353"
+       id="text1585"><tspan
+         sodipodi:role="line"
+         id="tspan1583"
+         x="418.59149"
+         y="41.072353"
+         style="font-size:2.11667px;stroke-width:0.264583">15</tspan></text>
+    <g
+       id="g1593"
+       transform="translate(-84.833639,165.82964)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle1587"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.2258"
+         y="-1.274412"
+         id="text1591"><tspan
+           sodipodi:role="line"
+           id="tspan1589"
+           x="246.2258"
+           y="-1.274412"
+           style="font-size:2.11667px;stroke-width:0.264583">15</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="119.49361"
+       y="146.27145"
+       id="text1959"><tspan
+         sodipodi:role="line"
+         id="tspan1957"
+         x="119.49361"
+         y="146.27145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"> تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1967)"
+       d="m 116.20755,144.13626 c 0,3.64978 0,7.29934 0,10.94869"
+       id="path1961"
+       inkscape:path-effect="#path-effect1963"
+       inkscape:original-d="m 116.20755,144.13626 c 2.4e-4,3.64978 2.4e-4,7.29934 0,10.94869" />
+    <rect
+       style="fill:#d3e0b8;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2277"
+       width="49.735001"
+       height="14.735002"
+       x="76.106308"
+       y="155.73132" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="107.75583"
+       y="163.95596"
+       id="text2293"><tspan
+         sodipodi:role="line"
+         id="tspan2291"
+         x="107.75583"
+         y="163.95596"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تکمیل بافت</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2935)"
+       d="m 358.81371,146.52167 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path2929"
+       inkscape:path-effect="#path-effect2931"
+       inkscape:original-d="m 358.81371,146.52167 c -4.37031,2.6e-4 -8.74088,2.6e-4 -13.11172,0" />
+    <rect
+       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect3253"
+       width="49.735001"
+       height="14.735002"
+       x="295.1813"
+       y="138.79796" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="330.83099"
+       y="147.07497"
+       id="text3257"><tspan
+         sodipodi:role="line"
+         id="tspan3255"
+         x="330.83099"
+         y="147.07497"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تکمیل سفارش</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle3259"
+       cx="342.18356"
+       cy="135.78407"
+       r="1.8675005" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="340.79037"
+       y="136.55458"
+       id="text3263"><tspan
+         sodipodi:role="line"
+         id="tspan3261"
+         x="340.79037"
+         y="136.55458"
+         style="font-size:2.11667px;stroke-width:0.264583">11</tspan></text>
+    <g
+       id="g3274"
+       transform="translate(0,-1.5875)">
+      <rect
+         style="fill:#d3e0b8;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect3265"
+         width="49.735001"
+         height="14.735002"
+         x="213.68971"
+         y="18.147982" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+         x="248.3399"
+         y="26.248598"
+         id="text3269"><tspan
+           sodipodi:role="line"
+           id="tspan3267"
+           x="248.3399"
+           y="26.248598"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تکمیل بافت</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3306)"
+       d="m 277.30727,24.413425 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path3300"
+       inkscape:path-effect="#path-effect3302"
+       inkscape:original-d="m 277.30727,24.413425 c -4.37031,-2.6e-4 -8.74088,-2.6e-4 -13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="274.85919"
+       y="23.827351"
+       id="text3632"><tspan
+         sodipodi:role="line"
+         id="tspan3630"
+         x="274.85919"
+         y="23.827351"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264998;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path3658"
+       sodipodi:sides="4"
+       sodipodi:cx="350.16036"
+       sodipodi:cy="23.361184"
+       sodipodi:r1="9.9234514"
+       sodipodi:r2="7.0169406"
+       sodipodi:arg1="1.4645608"
+       sodipodi:arg2="2.2499589"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 351.21261,33.228689 -10.91975,-8.815265 8.81527,-10.919747 10.91975,8.815265 z"
+       inkscape:transform-center-x="1.3018007e-05" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="354.22266"
+       y="24.00404"
+       id="text3662"><tspan
+         sodipodi:role="line"
+         id="tspan3660"
+         x="354.22266"
+         y="24.00404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">با متعامل</tspan></text>
+    <rect
+       style="fill:#d3e0b8;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect4838"
+       width="29.735001"
+       height="8.7350016"
+       x="334.9313"
+       y="37.76326" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="363.27811"
+       y="42.676468"
+       id="text4842"><tspan
+         sodipodi:role="line"
+         id="tspan4840"
+         x="363.27811"
+         y="42.676468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">درخواست بافت توسط کارخانه</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4886)"
+       d="m 334.72813,45.979974 c -2.51552,0 -5.03118,0 -7.547,0"
+       id="path4876"
+       inkscape:path-effect="#path-effect4878"
+       inkscape:original-d="m 334.72813,45.979974 c -2.51552,2.64e-4 -5.03118,2.64e-4 -7.547,0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13438)"
+       d="m 359.98946,22.296757 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path5264"
+       inkscape:original-d="m 359.98946,22.296757 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0"
+       inkscape:path-effect="#path-effect5266" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="368.80667"
+       y="21.487972"
+       id="text5270"><tspan
+         sodipodi:role="line"
+         id="tspan5268"
+         x="368.80667"
+         y="21.487972"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">سفارش بافت</tspan><tspan
+         sodipodi:role="line"
+         x="368.80667"
+         y="23.414469"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan5630">برای متعامل</tspan></text>
+    <rect
+       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect5644"
+       width="49.735001"
+       height="14.735002"
+       x="295.71054"
+       y="107.04796" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="340.88239"
+       y="111.08344"
+       id="text5648"><tspan
+         sodipodi:role="line"
+         id="tspan5646"
+         x="340.88239"
+         y="111.08344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی عدم تایید ارسال به متعامل</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect5650"
+       width="19.735001"
+       height="5.7350011"
+       x="321.89755"
+       y="114.59039" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="335.35449"
+       y="118.18552"
+       id="text5654"><tspan
+         sodipodi:role="line"
+         id="tspan5652"
+         x="335.35449"
+         y="118.18552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید لغو</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect5656"
+       width="19.735001"
+       height="5.7350011"
+       x="300.20184"
+       y="114.59039" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="315.42081"
+       y="118.19102"
+       id="text5660"><tspan
+         sodipodi:role="line"
+         id="tspan5658"
+         x="315.42081"
+         y="118.19102"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5690)"
+       d="m 358.81371,114.77165 c -4.37031,0 -8.74088,0 -13.11172,0"
+       id="path5684"
+       inkscape:path-effect="#path-effect5686"
+       inkscape:original-d="m 358.81371,114.77165 c -4.37031,2.6e-4 -8.74088,2.6e-4 -13.11172,0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6410)"
+       d="m 343.74937,106.87268 c 0,-7.098025 0,-14.195618 0,-21.292824"
+       id="path6404"
+       inkscape:path-effect="#path-effect6406"
+       inkscape:original-d="m 343.74937,106.87268 c -4.5e-4,-7.098025 -4.5e-4,-14.195618 0,-21.292824" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="342.59235"
+       y="105.31901"
+       id="text6788"><tspan
+         sodipodi:role="line"
+         id="tspan6786"
+         x="342.59235"
+         y="105.31901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">تایید لغو</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6802)"
+       d="m 345.63582,119.53415 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path6796"
+       inkscape:path-effect="#path-effect6798"
+       inkscape:original-d="m 345.63582,119.53415 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="351.05896"
+       y="121.19401"
+       id="text7182"><tspan
+         sodipodi:role="line"
+         id="tspan7180"
+         x="351.05896"
+         y="121.19401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7208)"
+       d="m 95.040873,84.869565 c 0,5.767936 0,11.535538 0,17.302795"
+       id="path7202"
+       inkscape:path-effect="#path-effect7204"
+       inkscape:original-d="m 95.040873,84.869565 c 3.9e-4,5.767936 3.9e-4,11.535538 0,17.302795" />
+    <rect
+       style="fill:#d3e0b8;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect7950"
+       width="49.735001"
+       height="14.735002"
+       x="54.939644"
+       y="129.27296" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="99.708023"
+       y="133.30846"
+       id="text7954"><tspan
+         sodipodi:role="line"
+         id="tspan7952"
+         x="99.708023"
+         y="133.30846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در انتظار دریافت در انبار درجه دار</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect7956"
+       width="19.735001"
+       height="5.7350011"
+       x="69.939651"
+       y="136.8154" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="85.050766"
+       y="140.41051"
+       id="text7960"><tspan
+         sodipodi:role="line"
+         id="tspan7958"
+         x="85.050766"
+         y="140.41051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید دریافت</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:rtl;stroke-width:0.264583"
+       x="59.804935"
+       y="135.71146"
+       id="text7972"><tspan
+         sodipodi:role="line"
+         id="tspan7970"
+         x="59.804935"
+         y="135.71146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:rtl;text-anchor:end;stroke-width:0.264583">بعد از تایید کل موجودی انبار درجه دار آپدیت می شود(بدون تخصیص)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="82.45195"
+       y="119.8131"
+       id="text7992"><tspan
+         sodipodi:role="line"
+         id="tspan7990"
+         x="82.45195"
+         y="119.8131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"> تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker8000)"
+       d="m 79.165872,117.67791 c 0,3.64978 0,7.29934 0,10.94869"
+       id="path7994"
+       inkscape:path-effect="#path-effect7996"
+       inkscape:original-d="m 79.165872,117.67791 c 2.4e-4,3.64978 2.4e-4,7.29934 0,10.94869" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="64.989456"
+       y="146.27145"
+       id="text8388"><tspan
+         sodipodi:role="line"
+         id="tspan8386"
+         x="64.989456"
+         y="146.27145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583"> تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker8396)"
+       d="m 84.457539,144.13626 c 0,3.64978 0,7.29934 0,10.94869"
+       id="path8390"
+       inkscape:path-effect="#path-effect8392"
+       inkscape:original-d="m 84.457539,144.13626 c 2.4e-4,3.64978 2.4e-4,7.29934 0,10.94869" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker8922)"
+       d="m 140.54923,144.13627 c 0,4.76633 0,9.53236 0,14.29813"
+       id="path8916"
+       inkscape:path-effect="#path-effect8918"
+       inkscape:original-d="m 140.54923,144.13627 c 3e-4,4.76633 3e-4,9.53236 0,14.29813" />
+    <g
+       id="g9390"
+       transform="translate(127.85996,24.149515)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle9384"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.24698"
+         y="-1.2594258"
+         id="text9388"><tspan
+           sodipodi:role="line"
+           id="tspan9386"
+           x="246.24698"
+           y="-1.2594258"
+           style="font-size:2.11667px;stroke-width:0.264583">12</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13448)"
+       d="m 327.18113,24.413425 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path9392"
+       inkscape:original-d="m 327.18113,24.413425 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0"
+       inkscape:path-effect="#path-effect9394" />
+    <path
+       sodipodi:type="star"
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264998;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path13948"
+       sodipodi:sides="4"
+       sodipodi:cx="443.02203"
+       sodipodi:cy="51.897334"
+       sodipodi:r1="5.900773"
+       sodipodi:r2="4.1724772"
+       sodipodi:arg1="1.4645608"
+       sodipodi:arg2="2.2499589"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 443.64773,57.764841 -6.4932,-5.241813 5.24181,-6.493199 6.4932,5.241813 z"
+       inkscape:transform-center-x="8.0309058e-06" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="446.94427"
+       y="52.443039"
+       id="text13952"><tspan
+         sodipodi:role="line"
+         id="tspan13950"
+         x="446.94427"
+         y="52.443039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">درجه یک</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13978)"
+       d="m 437.15454,52.523029 c -4.93335,0 -9.86699,0 -14.80094,0"
+       id="path13972"
+       inkscape:original-d="m 437.15454,52.523029 c -4.93335,-2.93e-4 -9.86699,-2.93e-4 -14.80094,0"
+       inkscape:path-effect="#path-effect13974" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="437.09729"
+       y="51.753525"
+       id="text14922"><tspan
+         sodipodi:role="line"
+         id="tspan14920"
+         x="437.09729"
+         y="51.753525"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">سفارش فرش</tspan><tspan
+         sodipodi:role="line"
+         x="437.09729"
+         y="53.680019"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan14930">درجه یک</tspan></text>
+    <rect
+       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect14932"
+       width="49.735001"
+       height="14.735002"
+       x="423.83112"
+       y="85.881302" />
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect14938"
+       width="19.735001"
+       height="5.7350011"
+       x="450.48495"
+       y="93.423744" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="469.44061"
+       y="97.018845"
+       id="text14942"><tspan
+         sodipodi:role="line"
+         id="tspan14940"
+         x="469.44061"
+         y="97.018845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تخصیص از انبار</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect14944"
+       width="19.735001"
+       height="5.7350011"
+       x="428.78897"
+       y="93.423744" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="444.00806"
+       y="97.018845"
+       id="text14948"><tspan
+         sodipodi:role="line"
+         id="tspan14946"
+         x="444.00806"
+         y="97.018845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14970)"
+       d="m 443.67204,57.896741 c 0,9.173497 0,18.346466 0,27.518909"
+       id="path14964"
+       inkscape:path-effect="#path-effect14966"
+       inkscape:original-d="m 443.67204,57.896741 c 5.9e-4,9.173497 5.9e-4,18.346466 0,27.518909" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="442.91812"
+       y="59.691029"
+       id="text15442"><tspan
+         sodipodi:role="line"
+         id="tspan15438"
+         x="442.91812"
+         y="59.691029"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">سفارش فرش</tspan><tspan
+         sodipodi:role="line"
+         x="442.91812"
+         y="61.617523"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan15440">درجه دار</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="468.06418"
+       y="89.916794"
+       id="text15452"><tspan
+         sodipodi:role="line"
+         id="tspan15450"
+         x="468.06418"
+         y="89.916794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی تخصیص از انبار درجه دار</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker15466);paint-order:stroke fill markers"
+       d="m 460.54832,100.71801 c 0,0 0,17.70398 0,17.70398 0,0 -51.0848,0 -51.0848,0"
+       id="path15460"
+       inkscape:path-effect="#path-effect15462"
+       inkscape:original-d="m 460.54832,100.71801 v 17.70398 h -51.0848"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="460.32031"
+       y="102.58902"
+       id="text15960"><tspan
+         sodipodi:role="line"
+         x="460.32031"
+         y="102.58902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan15954">تخصیص فرش های درجه دار</tspan><tspan
+         sodipodi:role="line"
+         x="460.32031"
+         y="104.51552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan15956">مقداری از موجودی انبار دار که تعیین</tspan><tspan
+         sodipodi:role="line"
+         x="460.32031"
+         y="106.44201"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan15958">گردد به این متعامل تخصیص داده می شود</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#marker15986);paint-order:stroke fill markers"
+       d="m 423.87831,95.274652 c 0,0 -106.28473,0 -106.28473,0 0,0 0,-9.87423 0,-9.87423"
+       id="path15980"
+       inkscape:path-effect="#path-effect15982"
+       inkscape:original-d="M 423.87831,95.274652 H 317.59358 v -9.87423"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="422.99667"
+       y="94.189178"
+       id="text16466"><tspan
+         sodipodi:role="line"
+         id="tspan16464"
+         x="422.99667"
+         y="94.189178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16516)"
+       d="m 147.09529,164.14644 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path16510"
+       inkscape:path-effect="#path-effect16512"
+       inkscape:original-d="m 147.09529,164.14644 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0" />
+    <g
+       id="g17463"
+       transform="translate(0.59061157,2.8796944)">
+      <path
+         sodipodi:type="star"
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264998;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path17436"
+         sodipodi:sides="4"
+         sodipodi:cx="137.60146"
+         sodipodi:cy="181.9912"
+         sodipodi:r1="5.900773"
+         sodipodi:r2="4.1724772"
+         sodipodi:arg1="1.4645608"
+         sodipodi:arg2="2.2499589"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 138.22715,187.8587 -6.4932,-5.24181 5.24181,-6.4932 6.4932,5.24181 z"
+         inkscape:transform-center-x="8.0309057e-06" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+         x="141.66376"
+         y="182.63405"
+         id="text17458"><tspan
+           sodipodi:role="line"
+           id="tspan17456"
+           x="141.66376"
+           y="182.63405"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">با متعامل</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker17499)"
+       d="m 144.26236,184.25478 c 4.37031,0 8.74088,0 13.11172,0"
+       id="path17493"
+       inkscape:path-effect="#path-effect17495"
+       inkscape:original-d="m 144.26236,184.25478 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="152.52686"
+       y="183.70195"
+       id="text17971"><tspan
+         sodipodi:role="line"
+         id="tspan17967"
+         x="152.52686"
+         y="183.70195"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583">سفارش با</tspan><tspan
+         sodipodi:role="line"
+         x="152.52686"
+         y="185.62845"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan17969">متعامل</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="222.60823"
+       y="257.85703"
+       id="text19575"><tspan
+         sodipodi:role="line"
+         id="tspan19573"
+         x="222.60823"
+         y="257.85703"
+         style="stroke-width:0.264583" /></text>
+    <g
+       id="g19945"
+       transform="translate(-87.479474,185.93801)">
+      <circle
+         style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+         id="circle19939"
+         cx="247.60452"
+         cy="-2.0449088"
+         r="1.8675005" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="246.2258"
+         y="-1.274412"
+         id="text19943"><tspan
+           sodipodi:role="line"
+           id="tspan19941"
+           x="246.2258"
+           y="-1.274412"
+           style="font-size:2.11667px;stroke-width:0.264583">15</tspan></text>
+    </g>
+  </g>
+</svg>
