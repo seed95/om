@@ -18,6 +18,28 @@
      id="defs2">
     <inkscape:path-effect
        effect="bspline"
+       id="path-effect132143"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect102014"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
        id="path-effect16589"
        is_visible="true"
        lpeversion="1"
@@ -469,21 +491,6 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false" />
-    <marker
-       style="overflow:visible"
-       id="marker6802"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path6800" />
-    </marker>
     <inkscape:path-effect
        effect="bspline"
        id="path-effect6798"
@@ -1743,17 +1750,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="1452.5299"
-     inkscape:cy="279.08621"
+     inkscape:zoom="1.460385"
+     inkscape:cx="1004.872"
+     inkscape:cy="456.72888"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="true"
      showguides="false"
@@ -2245,7 +2252,7 @@
        id="rect2342"
        width="49.735001"
        height="14.735002"
-       x="327.46048"
+       x="311.58551"
        y="139.1949"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
@@ -2253,7 +2260,7 @@
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="372.63226"
+       x="356.75729"
        y="143.23039"
        id="text2346"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -2261,7 +2268,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2344"
-         x="372.63226"
+         x="356.75729"
          y="143.23039"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">در حال ارسال به متعامل</tspan></text>
     <rect
@@ -2269,7 +2276,7 @@
        id="rect2348"
        width="19.735001"
        height="5.7350011"
-       x="342.4603"
+       x="326.58533"
        y="146.73735"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
@@ -2277,7 +2284,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="358.61505"
+       x="342.74008"
        y="150.33247"
        id="text2352"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -2285,13 +2292,13 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2350"
-         x="358.61505"
+         x="342.74008"
          y="150.33247"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تایید تحویل</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="322.73672"
+       x="306.86176"
        y="148.28601"
        id="text2366"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -2299,7 +2306,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2364"
-         x="322.73672"
+         x="306.86176"
          y="148.28601"
          style="text-align:end;text-anchor:end;stroke-width:0.264583">تایید</tspan></text>
     <rect
@@ -2314,18 +2321,18 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="283.46576"
-       y="78.283318"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="288.75909"
+       y="78.354286"
        id="text2464"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2462"
-         x="283.46576"
-         y="78.283318"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید سفارش</tspan></text>
+         x="288.75909"
+         y="78.354286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید سفارش (آیتم - فرش)</tspan></text>
     <rect
        style="fill:#d3e0b8;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect2670"
@@ -2543,8 +2550,8 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="321.02151"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="325.15024"
        y="20.595968"
        id="text1468"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -2552,9 +2559,9 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1466"
-         x="321.02151"
+         x="325.15024"
          y="20.595968"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی عدم تایید سفارش</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی عدم تایید سفارش (فرش - آیتم)</tspan></text>
     <rect
        style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect1470"
@@ -3232,7 +3239,7 @@
     </g>
     <g
        id="g1406"
-       transform="translate(113.77083,69.188542)"
+       transform="translate(97.895823,69.188542)"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -3309,59 +3316,59 @@
        transform="translate(-6.2650267,100.77892)"><tspan
          x="83.386721"
          y="132.58415"
-         id="tspan28818"><tspan
+         id="tspan167348"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28816">اگر در وضعیت      سفارش به دو قسمت تبدیل </tspan></tspan><tspan
+           id="tspan167346">اگر در وضعیت      سفارش به دو قسمت تبدیل </tspan></tspan><tspan
          x="83.386719"
          y="137.11649"
-         id="tspan28826"><tspan
+         id="tspan167356"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28820">می شود</tspan><tspan
+           id="tspan167350">می شود</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28822">.</tspan><tspan
+           id="tspan167352">.</tspan><tspan
            dx="11.370544"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28824">
+           id="tspan167354">
 </tspan></tspan><tspan
          x="83.386718"
          y="141.64882"
-         id="tspan28834"><tspan
+         id="tspan167364"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28828"> قسمت یک</tspan><tspan
+           id="tspan167358"> قسمت یک</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28830">: </tspan><tspan
+           id="tspan167360">: </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28832">ایجاد یک سفارش جدید به تعداد </tspan></tspan><tspan
+           id="tspan167362">ایجاد یک سفارش جدید به تعداد </tspan></tspan><tspan
          x="83.386717"
          y="146.05854"
-         id="tspan28840"><tspan
+         id="tspan167370"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28836">فرش های بافت </tspan><tspan
+           id="tspan167366">فرش های بافت </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28838">شده که پرچم بدون متعامل </tspan></tspan><tspan
+           id="tspan167368">شده که پرچم بدون متعامل </tspan></tspan><tspan
          x="83.386717"
          y="150.59088"
-         id="tspan28848"><tspan
+         id="tspan167378"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28842">دارد و از مرحله    ادامه می یابد</tspan><tspan
+           id="tspan167372">دارد و از مرحله    ادامه می یابد</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28844">.</tspan><tspan
+           id="tspan167374">.</tspan><tspan
            dx="45.483902"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28846">
+           id="tspan167376">
 </tspan></tspan><tspan
          x="83.386718"
          y="155.12322"
-         id="tspan28858"><tspan
+         id="tspan167388"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28850">قسمت دوم</tspan><tspan
+           id="tspan167380">قسمت دوم</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28852">: </tspan><tspan
+           id="tspan167382">: </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28854">تغییر وضعیت سفارش اولیه به</tspan><tspan
+           id="tspan167384">تغییر وضعیت سفارش اولیه به</tspan><tspan
            dx="58.451252"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28856"> </tspan></tspan></text>
+           id="tspan167386"> </tspan></tspan></text>
     <g
        id="g6768"
        transform="translate(-31.665026,104.84725)">
@@ -3434,16 +3441,16 @@
        transform="translate(-6.2650267,130.41226)"><tspan
          x="83.386717"
          y="132.58415"
-         id="tspan28862"><tspan
+         id="tspan167392"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28860">در بقیه وضعیت ها فقط پرچم بدون متعامل به </tspan></tspan><tspan
+           id="tspan167390">در بقیه وضعیت ها فقط پرچم بدون متعامل به </tspan></tspan><tspan
          x="83.386719"
          y="136.99388"
-         id="tspan28868"><tspan
+         id="tspan167398"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28864">سفارش اضافه </tspan><tspan
+           id="tspan167394">سفارش اضافه </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28866">می شود و بقیه مراحل تا ت</tspan></tspan></text>
+           id="tspan167396">می شود و بقیه مراحل تا ت</tspan></tspan></text>
     <rect
        style="fill:#f0f0f0;stroke:#000000;stroke-width:0.264998;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect7046"
@@ -3490,198 +3497,198 @@
        y="0"><tspan
          x="233.29102"
          y="119.57718"
-         id="tspan28878"><tspan
+         id="tspan167408"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28870">تمامی سفارشات به تعداد سفارشات شکسته می شود</tspan><tspan
+           id="tspan167400">تمامی سفارشات به تعداد سفارشات شکسته می شود</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28872">. -&gt; </tspan><tspan
+           id="tspan167402">. -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28874">اوکی</tspan><tspan
+           id="tspan167404">اوکی</tspan><tspan
            dx="51.320976"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28876">
+           id="tspan167406">
 </tspan></tspan><tspan
          x="233.29102"
          y="122.29658"
-         id="tspan28884"><tspan
+         id="tspan167414"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28880">انبار داری</tspan><tspan
+           id="tspan167410">انبار داری</tspan><tspan
            dx="5.0518961"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28882">
+           id="tspan167412">
 </tspan></tspan><tspan
          x="233.29101"
          y="125.01598"
-         id="tspan28894"><tspan
+         id="tspan167424"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28886">اشتباه زدن تایید یا عدم تایید</tspan><tspan
+           id="tspan167416">اشتباه زدن تایید یا عدم تایید</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28888"> -&gt; </tspan><tspan
+           id="tspan167418"> -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28890">اصلاح سفارش</tspan><tspan
+           id="tspan167420">اصلاح سفارش</tspan><tspan
            dx="34.666672"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28892">
+           id="tspan167422">
 </tspan></tspan><tspan
          x="233.29101"
          y="127.73538"
-         id="tspan28904"><tspan
+         id="tspan167434"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28896">ویرایش سفارش</tspan><tspan
+           id="tspan167426">ویرایش سفارش</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28898"> -&gt; </tspan><tspan
+           id="tspan167428"> -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28900">اصلاح سفارش</tspan><tspan
+           id="tspan167430">اصلاح سفارش</tspan><tspan
            dx="24.748913"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28902">
+           id="tspan167432">
 </tspan></tspan><tspan
          x="233.29102"
          y="130.45477"
-         id="tspan28914"><tspan
+         id="tspan167444"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28906">فرش درجه یک و درجه دو</tspan><tspan
+           id="tspan167436">فرش درجه یک و درجه دو</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28908"> -&gt; </tspan><tspan
+           id="tspan167438"> -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28910">اوکی</tspan><tspan
+           id="tspan167440">اوکی</tspan><tspan
            dx="25.978817"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28912">
+           id="tspan167442">
 </tspan></tspan><tspan
          x="233.29102"
          y="133.17418"
-         id="tspan28924"><tspan
+         id="tspan167454"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28916">بررسی فرش درجه دار</tspan><tspan
+           id="tspan167446">بررسی فرش درجه دار</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28918"> -&gt; </tspan><tspan
+           id="tspan167448"> -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28920">اوکی</tspan><tspan
+           id="tspan167450">اوکی</tspan><tspan
            dx="23.624434"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28922">
+           id="tspan167452">
 </tspan></tspan><tspan
          x="233.29102"
          y="135.89359"
-         id="tspan28934"><tspan
+         id="tspan167464"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28926">سفارش از ابتدا متعامل نداشته باشد</tspan><tspan
+           id="tspan167456">سفارش از ابتدا متعامل نداشته باشد</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28928">. -&gt; </tspan><tspan
+           id="tspan167458">. -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28930">اوکی</tspan><tspan
+           id="tspan167460">اوکی</tspan><tspan
            dx="35.836628"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28932">
+           id="tspan167462">
 </tspan></tspan><tspan
          x="233.29102"
          y="138.61299"
-         id="tspan28946"><tspan
+         id="tspan167476"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28936">موجودی در انبار دو وضعیت دارد</tspan><tspan
+           id="tspan167466">موجودی در انبار دو وضعیت دارد</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28938">: </tspan><tspan
+           id="tspan167468">: </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28940">تخصیص داده شده به متعامل</tspan><tspan
+           id="tspan167470">تخصیص داده شده به متعامل</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28942"> - </tspan><tspan
+           id="tspan167472"> - </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28944">بدون متعامل که کل </tspan></tspan><tspan
+           id="tspan167474">بدون متعامل که کل </tspan></tspan><tspan
          x="233.29102"
          y="141.3324"
-         id="tspan28956"><tspan
+         id="tspan167486"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28948">موجودی انبار مجموع دو </tspan><tspan
+           id="tspan167478">موجودی انبار مجموع دو </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28950">عدد بالا می باشد</tspan><tspan
+           id="tspan167480">عدد بالا می باشد</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28952">.</tspan><tspan
+           id="tspan167482">.</tspan><tspan
            dx="35.682632"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28954">
+           id="tspan167484">
 </tspan></tspan><tspan
          x="233.29101"
          y="144.05181"
-         id="tspan28970"><tspan
+         id="tspan167500"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28958">دو نوع موجودی انبار داریم</tspan><tspan
+           id="tspan167488">دو نوع موجودی انبار داریم</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28960">: </tspan><tspan
+           id="tspan167490">: </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28962">برای فرش های درجه یک</tspan><tspan
+           id="tspan167492">برای فرش های درجه یک</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28964"> - </tspan><tspan
+           id="tspan167494"> - </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28966">برای فرش های درجه دار</tspan><tspan
+           id="tspan167496">برای فرش های درجه دار</tspan><tspan
            dx="67.093674"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28968">
+           id="tspan167498">
 </tspan></tspan><tspan
          x="233.29102"
          y="146.77121"
-         id="tspan28978"><tspan
+         id="tspan167508"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28972">امکان تعیین کردن سفارش برای فرش های درجه دار</tspan><tspan
+           id="tspan167502">امکان تعیین کردن سفارش برای فرش های درجه دار</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28974">. </tspan><tspan
+           id="tspan167504">. </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28976">هنگام ثبت سفارش بتوان تعیین کرد </tspan></tspan><tspan
+           id="tspan167506">هنگام ثبت سفارش بتوان تعیین کرد </tspan></tspan><tspan
          x="233.29101"
          y="149.49062"
-         id="tspan28988"><tspan
+         id="tspan167518"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28980">که این متعامل فرش </tspan><tspan
+           id="tspan167510">که این متعامل فرش </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28982">درجه دار میخواهد</tspan><tspan
+           id="tspan167512">درجه دار میخواهد</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28984">. </tspan><tspan
+           id="tspan167514">. </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28986">اگر یک کد فرش شامل هم فرش درجه یک بود </tspan></tspan><tspan
+           id="tspan167516">اگر یک کد فرش شامل هم فرش درجه یک بود </tspan></tspan><tspan
          x="233.29102"
          y="152.21002"
-         id="tspan28998"><tspan
+         id="tspan167528"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28990">هم درجه دار، باید دوتا سفارش مجزا یکی </tspan><tspan
+           id="tspan167520">هم درجه دار، باید دوتا سفارش مجزا یکی </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28992">برای درجه دار و یکی برای درجه یک ثبت شود</tspan><tspan
+           id="tspan167522">برای درجه دار و یکی برای درجه یک ثبت شود</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28994">.</tspan><tspan
+           id="tspan167524">.</tspan><tspan
            dx="75.571732"
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan28996">
+           id="tspan167526">
 </tspan></tspan><tspan
          x="233.29102"
          y="154.92943"
-         id="tspan29002"><tspan
+         id="tspan167532"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29000">
+           id="tspan167530">
 </tspan></tspan><tspan
          x="233.29101"
          y="157.64884"
-         id="tspan29010"><tspan
+         id="tspan167540"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29004">امکان ارسال آلارم یا مسیج برای تغییر وضعیت</tspan><tspan
+           id="tspan167534">امکان ارسال آلارم یا مسیج برای تغییر وضعیت</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29006">. </tspan><tspan
+           id="tspan167536">. </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29008">مثلا وقتی فرش بافته شد به برای وضعیت </tspan></tspan><tspan
+           id="tspan167538">مثلا وقتی فرش بافته شد به برای وضعیت </tspan></tspan><tspan
          x="233.29101"
          y="160.29468"
-         id="tspan29016"><tspan
+         id="tspan167546"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29012">سفارش که در حالت </tspan><tspan
+           id="tspan167542">سفارش که در حالت </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29014">می باشد یک آلارم ارسال شود که از کد مورد نظر موجودی انبار </tspan></tspan><tspan
+           id="tspan167544">می باشد یک آلارم ارسال شود که از کد مورد نظر موجودی انبار </tspan></tspan><tspan
          x="233.29101"
          y="163.01409"
-         id="tspan29024"><tspan
+         id="tspan167554"><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29018">تغییر کرده است</tspan><tspan
+           id="tspan167548">تغییر کرده است</tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29020">. -&gt; </tspan><tspan
+           id="tspan167550">. -&gt; </tspan><tspan
            style="font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end"
-           id="tspan29022">اوکی نیاز به آلارم نداریم</tspan></tspan></text>
+           id="tspan167552">اوکی نیاز به آلارم نداریم</tspan></tspan></text>
     <g
        id="g14297"
        transform="translate(33.201727,-0.02359734)"
@@ -4197,21 +4204,21 @@
        inkscape:export-ydpi="96"><tspan
          x="389.22266"
          y="44.79733"
-         id="tspan29028"><tspan
+         id="tspan167558"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan29026">شکستن سفارش به اینکه چه </tspan></tspan><tspan
+           id="tspan167556">شکستن سفارش به اینکه چه </tspan></tspan><tspan
          x="389.22266"
          y="46.561219"
-         id="tspan29034"><tspan
+         id="tspan167564"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan29030">تعداد ازا </tspan><tspan
+           id="tspan167560">تعداد ازا </tspan><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan29032">نبار  ارسال شود چه </tspan></tspan><tspan
+           id="tspan167562">نبار  ارسال شود چه </tspan></tspan><tspan
          x="389.22266"
          y="48.325108"
-         id="tspan29038"><tspan
+         id="tspan167568"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan29036">تعداد بافت شود</tspan></tspan></text>
+           id="tspan167566">تعداد بافت شود</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6332)"
        d="m 352.3279,121.91125 c 0,5.56723 0,11.13414 0,16.70073"
@@ -4337,10 +4344,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تکمیل بافت</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2935)"
-       d="m 327.06369,146.52167 c -4.37031,0 -8.74088,0 -13.11172,0"
+       d="m 311.18868,146.52167 c -4.37031,0 -8.74088,0 -13.11172,0"
        id="path2929"
        inkscape:path-effect="#path-effect2931"
-       inkscape:original-d="m 327.06369,146.52167 c -4.37031,2.6e-4 -8.74088,2.6e-4 -13.11172,0"
+       inkscape:original-d="m 311.18868,146.52167 c -4.37031,2.6e-4 -8.74088,2.6e-4 -13.11172,0"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -4349,7 +4356,7 @@
        id="rect3253"
        width="49.735001"
        height="14.735002"
-       x="263.43137"
+       x="247.55637"
        y="138.79796"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
@@ -4357,7 +4364,7 @@
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="299.08105"
+       x="283.20609"
        y="147.07497"
        id="text3257"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -4365,13 +4372,13 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan3255"
-         x="299.08105"
+         x="283.20609"
          y="147.07497"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تکمیل سفارش</tspan></text>
     <circle
        style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
        id="circle3259"
-       cx="310.43362"
+       cx="294.55865"
        cy="135.78407"
        r="1.8675005"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -4380,7 +4387,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="309.04044"
+       x="293.16547"
        y="136.55458"
        id="text3263"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -4388,7 +4395,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan3261"
-         x="309.04044"
+         x="293.16547"
          y="136.55458"
          style="font-size:2.11667px;stroke-width:0.264583">11</tspan></text>
     <g
@@ -4524,21 +4531,16 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         id="tspan5268"
          x="368.80667"
          y="21.487972"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583">سفارش بافت</tspan><tspan
-         sodipodi:role="line"
-         x="368.80667"
-         y="23.25186"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan5630">برای متعامل</tspan></text>
+         id="tspan5630">اطلاع به متعامل</tspan></text>
     <rect
-       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.320658;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect5644"
-       width="49.735001"
+       width="72.821274"
        height="14.735002"
-       x="263.9606"
+       x="240.87433"
        y="107.04796"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
@@ -4546,7 +4548,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="309.13245"
+       x="297.57864"
        y="111.08344"
        id="text5648"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -4554,7 +4556,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan5646"
-         x="309.13245"
+         x="297.57864"
          y="111.08344"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بررسی عدم تایید ارسال به متعامل</tspan></text>
     <rect
@@ -4586,7 +4588,7 @@
        id="rect5656"
        width="19.735001"
        height="5.7350011"
-       x="268.4519"
+       x="267.39355"
        y="114.59039"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
        inkscape:export-xdpi="96"
@@ -4594,7 +4596,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="283.67087"
+       x="282.61252"
        y="118.19102"
        id="text5660"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -4602,7 +4604,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan5658"
-         x="283.67087"
+         x="282.61252"
          y="118.19102"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
     <path
@@ -4637,15 +4639,6 @@
          x="310.84241"
          y="105.31901"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">تایید لغو</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6802)"
-       d="m 313.8858,119.53415 c 4.37031,0 8.74088,0 13.11172,0"
-       id="path6796"
-       inkscape:path-effect="#path-effect6798"
-       inkscape:original-d="m 313.8858,119.53415 c 4.37031,-2.6e-4 8.74088,-2.6e-4 13.11172,0"
-       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -4927,7 +4920,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="444.00806"
+       x="446.43274"
        y="97.018845"
        id="text14948"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -4935,9 +4928,9 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14946"
-         x="444.00806"
+         x="446.43274"
          y="97.018845"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم تایید</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">عدم موجودی</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14970)"
        d="m 443.67204,57.896741 c 0,9.173497 0,18.346466 0,27.518909"
@@ -5103,45 +5096,45 @@
        y="0"><tspan
          x="233.29102"
          y="119.57718"
-         id="tspan29044">پضعیت یک <tspan
+         id="tspan167574">پضعیت یک <tspan
    dx="-5.5314555"
-   id="tspan29040">item</tspan><tspan
+   id="tspan167570">item</tspan><tspan
    dx="-0.47335815"
-   id="tspan29042"> </tspan>از یک سفارش که درجه یک بوده و توسط متعامل ایجاد شده:
+   id="tspan167572"> </tspan>از یک سفارش که درجه یک بوده و توسط متعامل ایجاد شده:
 </tspan><tspan
          x="232.15414"
          y="122.29658"
-         id="tspan29052">۱<tspan
+         id="tspan167582">۱<tspan
    dx="1.1368833"
-   id="tspan29046">. </tspan>در انتظار تایید اولیه (برای کل سفارش صورت میگیرد نه تک تک<tspan
+   id="tspan167576">. </tspan>در انتظار تایید اولیه (برای کل سفارش صورت میگیرد نه تک تک<tspan
    dx="-9.0247822"
-   id="tspan29048"> </tspan>item <tspan
+   id="tspan167578"> </tspan>item <tspan
    dx="-4.1857967"
-   id="tspan29050">ها به صورت </tspan></tspan><tspan
+   id="tspan167580">ها به صورت </tspan></tspan><tspan
          x="233.29102"
          y="125.01598"
-         id="tspan29054">مجزا (
+         id="tspan167584">مجزا (
 </tspan><tspan
          x="232.15413"
          y="127.73538"
-         id="tspan29062">۲<tspan
+         id="tspan167592">۲<tspan
    dx="1.1368833"
-   id="tspan29056">. </tspan>بررسی تخصیص از انبار (برای هر<tspan
+   id="tspan167586">. </tspan>بررسی تخصیص از انبار (برای هر<tspan
    dx="-7.0466084"
-   id="tspan29058"> </tspan>item<tspan
+   id="tspan167588"> </tspan>item<tspan
    dx="-0.9983902"
-   id="tspan29060">صورت میگیرد</tspan>( این مرحله میتواند سیستمی </tspan><tspan
+   id="tspan167590">صورت میگیرد</tspan>( این مرحله میتواند سیستمی </tspan><tspan
          x="233.29102"
          y="130.45477"
-         id="tspan29064">انجام شود)
+         id="tspan167594">انجام شود)
 </tspan><tspan
          x="232.15413"
          y="133.17418"
-         id="tspan29070">۳<tspan
+         id="tspan167600">۳<tspan
    dx="1.1368833"
-   id="tspan29066">. </tspan>در انتظار جهت بافت<tspan
+   id="tspan167596">. </tspan>در انتظار جهت بافت<tspan
    dx="-8.8676882"
-   id="tspan29068"> </tspan>item</tspan></text>
+   id="tspan167598"> </tspan>item</tspan></text>
     <rect
        style="fill:#f5f7e9;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect14932-3"
@@ -5165,7 +5158,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
-       x="409.51712"
+       x="406.96982"
        y="98.488747"
        id="text14942-7"
        inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
@@ -5173,9 +5166,9 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14940-5"
-         x="409.51712"
+         x="406.96982"
          y="98.488747"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">تخصیص از انبار</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">بافت فرش</tspan></text>
     <rect
        style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect14944-3"
@@ -5213,7 +5206,7 @@
          id="tspan15450-9"
          x="410.668"
          y="91.386696"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">پیگیری از متعامل برای بافت درجه یک</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583">پیگیری از متعامل برای بافتن فرش</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.215912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13978)"
        d="m 423.82194,92.794237 c -3.27493,0 -6.55006,0 -9.82538,0"
@@ -5306,5 +5299,90 @@
          x="408.53735"
          y="84.46402"
          style="font-size:2.11667px;stroke-width:0.264583">18</tspan></text>
+    <circle
+       style="fill:#cecece;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;paint-order:fill markers stroke"
+       id="circle42356"
+       cx="468.10312"
+       cy="83.678535"
+       r="1.8675005"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="466.74557"
+       y="84.46402"
+       id="text42360"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan42358"
+         x="466.74557"
+         y="84.46402"
+         style="font-size:2.11667px;stroke-width:0.264583">19</tspan></text>
+    <rect
+       style="fill:#cecece;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect92734"
+       width="19.735001"
+       height="5.7350011"
+       x="245.16861"
+       y="114.59039"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;direction:ltr;stroke-width:0.264583"
+       x="261.34351"
+       y="116.98456"
+       id="text92738"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan92736"
+         x="261.34351"
+         y="116.98456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"> تایید لغو ارسال سفارش</tspan><tspan
+         sodipodi:role="line"
+         x="261.34351"
+         y="118.74844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;direction:ltr;text-anchor:end;stroke-width:0.264583"
+         id="tspan101620">بدون نیاز به اطلاع دادن</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6410)"
+       d="m 253.79098,106.87268 c 0,-7.098025 0,-14.195618 0,-21.292824"
+       id="path102010"
+       inkscape:path-effect="#path-effect102014"
+       inkscape:original-d="m 253.79098,106.87268 c -4.5e-4,-7.098025 -4.5e-4,-14.195618 0,-21.292824"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:'Font Awesome 5 Brands';-inkscape-font-specification:'Font Awesome 5 Brands';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="252.63417"
+       y="105.31901"
+       id="text102018"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan102016"
+         x="252.63417"
+         y="105.31901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:end;text-anchor:end;stroke-width:0.264583">تایید لغو بدون نیاز به اطلاع</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.414746;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15986);paint-order:stroke fill markers"
+       d="m 314.09016,118.20797 c 0,0 7.90937,0 7.90937,0 0,0 0,20.24802 0,20.24802"
+       id="path132139"
+       inkscape:path-effect="#path-effect132143"
+       inkscape:original-d="m 314.09016,118.20797 h 7.90937 v 20.24802"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/sajad/order-management/Resource/UI/g2039.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
